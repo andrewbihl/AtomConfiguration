@@ -4,6 +4,7 @@ dbg-gdb
 go-debug
 go-plus
 go-rename
+goto-definition
 hyperclick
 language-babel
 language-docker
