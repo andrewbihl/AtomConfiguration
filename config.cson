@@ -1,0 +1,39 @@
+"*":
+  core:
+    excludeVcsIgnoredPaths: false
+    telemetryConsent: "no"
+    themes: [
+      "native-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 12
+    invisibles: {}
+    scrollSensitivity: 50
+  "exception-reporting":
+    userId: "d9cb4344-bb23-0d8b-0736-e0eebc3f5af3"
+  "go-plus":
+    panel: {}
+  minimap: {}
+  "platformio-ide-terminal":
+    style:
+      animationSpeed: 5
+      defaultPanelHeight: "200px"
+      fontFamily: "Monaco"
+      fontSize: "10"
+      theme: "dracula"
+    toggles:
+      cursorBlink: false
+      selectToCopy: false
+  "remote-ftp":
+    connector: {}
+    statusbar:
+      enable: true
+    tree: {}
+  "tool-bar":
+    position: "Left"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
