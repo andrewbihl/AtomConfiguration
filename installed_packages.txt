@@ -1,0 +1,17 @@
+autocomplete-clang
+dbg
+dbg-gdb
+go-debug
+go-plus
+go-rename
+hyperclick
+language-babel
+language-docker
+language-mips
+language-protobuf
+minimap
+native-ui
+output-panel
+platformio-ide-terminal
+pretty-json
+remote-ftp
